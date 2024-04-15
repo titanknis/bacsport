@@ -2,23 +2,23 @@
 salue
 #gimnastic steps
 
-F2 : 2π
+ F2 : 2π
 
-plane mod
+ plane mod
 
-F3 : rolad plangee && jump beautifully
+ F3 : rolad plangee && jump beautifully
 
-1/2π
+ 1/2π
 
-F5 : roue
-
-
-F1 : equilibrium and going back (if failed continue advancing)
+ F5 : roue
 
 
-F4 : rolad ariere aplique equilibre
+ F1 : equilibrium and going back (if failed continue advancing)
 
-end salue
+
+ F4 : rolad ariere aplique equilibre
+
+ end salue
 
 F1 : force
 
@@ -35,7 +35,7 @@ done
 
 
 
-	rolad avant jambe ecarte
+rolad avant jambe ecarte
 
 
 
