@@ -2,7 +2,7 @@
 salue
 # gimnastic steps
 ~~~
-$ F2 : 2π
+F2 : 2π
 ~~~
  plane mod
 
