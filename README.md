@@ -1,7 +1,9 @@
 [![Video 1](https://img.youtube.com/vi/MjB-o1p-pqc/0.jpg)](https://youtu.be/MjB-o1p-pqc)
 [![Video 2](https://img.youtube.com/vi/7kOdyMaK0cg/0.jpg)](https://youtu.be/7kOdyMaK0cg)
 
-salue
+You can watch the videos [here](videos.html).
+
+### salue
 
 ~~~
 F2 : 2π
@@ -19,9 +21,8 @@ roue
 ~~~
 F5 : roue
 ~~~
-roue
 ~~~
-F1 : equilibrium and going back (if failed continue advancing and give another try)
+F1 : equilibrium (2s) and going back (if failed continue advancing and give another try)
 ~~~
-end salue
+### end salue
 
