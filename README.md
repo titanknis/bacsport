@@ -6,27 +6,6 @@ You can watch the videos [here](videos.html).
 
 ### salue
 
-~~~
-F2 : 2π
-~~~
-plane mod
-2 pas ariere
-~~~
-F3 : rolad plangee && jump with hands in the air (up) 
-~~~
-genage && slide your hands between your legs && touch your legs fingertips
-~~~
-F4 : rolad ariere jambes tendues avec pousses des bras
-~~~
-roue
-~~~
-F5 : roue
-~~~
-π
-~~~
-F1 : equilibrium (2s) and going back (if failed continue advancing and give another try)
-~~~
-### end salue
 salue
 Scissors jump.
 Plane mod.
@@ -50,3 +29,4 @@ F1 : equilibrium (2s) and going back (if failed continue advancing and give anot
 F2 : saut carpe jambs ecartees
 end salue
 ~~~
+### end salue
